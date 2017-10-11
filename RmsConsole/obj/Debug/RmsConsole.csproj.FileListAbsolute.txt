@@ -1,0 +1,8 @@
+C:\Work\ATOS\RmsTest\RmsConsole\RmsConsole\obj\Debug\RmsConsole.csprojResolveAssemblyReference.cache
+C:\Work\ATOS\RmsTest\RmsConsole\RmsConsole\obj\Debug\RmsConsole.csproj.CoreCompileInputs.cache
+C:\Work\ATOS\RmsTest\RmsConsole\RmsConsole\bin\Debug\RmsConsole.exe
+C:\Work\ATOS\RmsTest\RmsConsole\RmsConsole\bin\Debug\RmsConsole.pdb
+C:\Work\ATOS\RmsTest\RmsConsole\RmsConsole\obj\Debug\RmsConsole.exe
+C:\Work\ATOS\RmsTest\RmsConsole\RmsConsole\obj\Debug\RmsConsole.pdb
+C:\Work\ATOS\RmsTest\RmsConsole\RmsConsole\bin\Debug\RmsAdapter.dll
+C:\Work\ATOS\RmsTest\RmsConsole\RmsConsole\bin\Debug\RmsAdapter.pdb

@@ -1,0 +1,6 @@
+C:\Work\ATOS\RmsTest\RmsConsole\RmsAdapter\bin\Debug\RmsAdapter.dll
+C:\Work\ATOS\RmsTest\RmsConsole\RmsAdapter\bin\Debug\RmsAdapter.pdb
+C:\Work\ATOS\RmsTest\RmsConsole\RmsAdapter\obj\Debug\RmsAdapter.csproj.CoreCompileInputs.cache
+C:\Work\ATOS\RmsTest\RmsConsole\RmsAdapter\obj\Debug\RmsAdapter.dll
+C:\Work\ATOS\RmsTest\RmsConsole\RmsAdapter\obj\Debug\RmsAdapter.pdb
+C:\Work\ATOS\RmsTest\RmsConsole\RmsAdapter\obj\Debug\RmsAdapter.csprojResolveAssemblyReference.cache
